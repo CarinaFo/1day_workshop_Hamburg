@@ -1,7 +1,8 @@
 # EEG Analysis with MNE Python @ Universität Hamburg
 
 This is the repository for a 1-day workshop on EEG analysis using [MNE-Python](https://github.com/mne-tools/mne-python).
-The workshop is taking place on October 17th, 2024 in Hamburg (psychology department).
+
+The workshop is taking place on October 17th, 2024 at the Universität Hamburg, [psychology department](https://www.psy.uni-hamburg.de/arbeitsbereiche/klinische-psychologie-und-psychotherapie/personen.html)
 
 ## Materials
 
