@@ -2,7 +2,7 @@
 
 This is the repository for a 1-day workshop on EEG analysis using [MNE-Python](https://github.com/mne-tools/mne-python).
 
-The workshop is taking place on October 17th, 2024 at the Universität Hamburg, [psychology department](https://www.psy.uni-hamburg.de/arbeitsbereiche/klinische-psychologie-und-psychotherapie/personen.html) organized by [Anne Löttert](https://www.psy.uni-hamburg.de/arbeitsbereiche/klinische-psychologie-und-psychotherapie/personen/loettert-anne.html)
+The workshop is taking place on October 17th, 2024 at Universität Hamburg, [psychology department](https://www.psy.uni-hamburg.de/arbeitsbereiche/klinische-psychologie-und-psychotherapie/personen.html) organized by [Anne Löttert](https://www.psy.uni-hamburg.de/arbeitsbereiche/klinische-psychologie-und-psychotherapie/personen/loettert-anne.html)
 
 ## Materials
 
@@ -12,7 +12,7 @@ Authors of the material:
 - [Alexandre Gramfort](https://alexandre.gramfort.net/), Intro to Python scripts
 - [Britta Westner](https://britta-wstnr.github.io/posts/about/), Radboud University, Donders Institute, Nijmegen, source localization scripts
 
-Huge credits to the authors of this amazing online book [Neural Data Science in Python](https://neuraldatascience.io/intro.html)
+Huge credits to the authors of this amazing online resource: [Neural Data Science in Python](https://neuraldatascience.io/intro.html)
 
 ## Before you arrive
 
