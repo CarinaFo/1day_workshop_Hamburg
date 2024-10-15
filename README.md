@@ -2,13 +2,13 @@
 
 This is the repository for a 1-day workshop on EEG analysis using [MNE-Python](https://github.com/mne-tools/mne-python).
 
-The workshop is taking place on October 17th, 2024 at the Universität Hamburg, [psychology department](https://www.psy.uni-hamburg.de/arbeitsbereiche/klinische-psychologie-und-psychotherapie/personen.html)
+The workshop is taking place on October 17th, 2024 at the Universität Hamburg, [psychology department](https://www.psy.uni-hamburg.de/arbeitsbereiche/klinische-psychologie-und-psychotherapie/personen.html) organized by [Anne Löttert](https://www.psy.uni-hamburg.de/arbeitsbereiche/klinische-psychologie-und-psychotherapie/personen/loettert-anne.html)
 
 ## Materials
 
 Authors of the material:
 
-- Carina Forster, Max Planck Institute for Human Cognitive and Brain Sciences, Leipzig
+- [Carina Forster](https://carinafo.github.io/), Max Planck Institute for Human Cognitive and Brain Sciences, Leipzig
 - Alexandre Gramfort, Intro to Python scripts
 - [Britta Westner](https://britta-wstnr.github.io/posts/about/), Radboud University, Donders Institute, Nijmegen, source localization scripts
 
