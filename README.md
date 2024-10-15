@@ -9,7 +9,7 @@ The workshop is taking place on October 17th, 2024 at the Universität Hamburg, 
 Authors of the material:
 
 - [Carina Forster](https://carinafo.github.io/), Max Planck Institute for Human Cognitive and Brain Sciences, Leipzig
-- Alexandre Gramfort, Intro to Python scripts
+- [Alexandre Gramfort](https://alexandre.gramfort.net/), Intro to Python scripts
 - [Britta Westner](https://britta-wstnr.github.io/posts/about/), Radboud University, Donders Institute, Nijmegen, source localization scripts
 
 Huge credits to the authors of this amazing online book [Neural Data Science in Python](https://neuraldatascience.io/intro.html)
